@@ -1,0 +1,17 @@
+<header>
+<nav></nav>
+</header>
+
+<main>
+<section></section> - about
+<section></section> - what i do
+<section></section> - summary of my resume
+<section></section> - contact page
+
+</main>
+
+img
+width 468px   /584px
+height 533px  /676px
+
+<hr>
