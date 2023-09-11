@@ -73,3 +73,34 @@ nav li {
     font-size: 18px;
     margin-bottom: 30px;
 }
+
+.about {
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.about-container {
+    margin-top: 200px;
+    background: #FFF8F3;
+    padding: 180px 120px 120px 120px;
+
+}
+
+.about-me {
+    text-align: center;
+    justify-content: space-around;
+    padding-bottom: 40px;
+}
+
+.style-about-me {
+    padding-bottom: 60px;
+    font-size: 35px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.style-about-p {
+    color: #757575;
+    word-spacing: 1px;
+    font-size: 17px;
+}

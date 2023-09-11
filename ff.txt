@@ -7,6 +7,7 @@
 <section></section> - what i do
 <section></section> - summary of my resume
 <section></section> - contact page
+<footer></footer>
 
 </main>
 
