@@ -104,3 +104,31 @@ nav li {
     word-spacing: 1px;
     font-size: 17px;
 }
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.about-info-subject {
+    color: #757575;
+    word-spacing: 1px;
+    font-weight: 300;
+}
+
+.about-info-description {
+    color: #474747;
+}
+
+.whatido {
+    margin-top: 80px;
+}
+
+.style-whatido {
+    padding-bottom: 60px;
+    font-size: 35px;
+    font-weight: 600;
+    color: #000000;
+    text-align: center;
+}
