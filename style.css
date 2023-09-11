@@ -75,7 +75,7 @@ nav li {
 }
 
 .about {
-    max-width: 1150px;
+    max-width: 1140px;
     margin: 0 auto;
 }
 
@@ -122,7 +122,8 @@ nav li {
 }
 
 .whatido {
-    margin-top: 80px;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .style-whatido {
@@ -132,3 +133,18 @@ nav li {
     color: #000000;
     text-align: center;
 }
+
+.skills {
+    display: flex;
+    padding: 10px;
+}
+
+.skills-container {
+    padding: 40px;
+    margin-left: 10px;
+    background: #FFFFFF;
+}
+
+.skills-title {}
+
+.skills-description {}
