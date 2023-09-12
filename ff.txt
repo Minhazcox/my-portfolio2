@@ -16,3 +16,10 @@ width 468px   /584px
 height 533px  /676px
 
 <hr>
+
+box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color];
+
+/* offset-x | offset-y | blur-radius | spread-radius | color */
+box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+#757575
