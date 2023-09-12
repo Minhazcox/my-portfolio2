@@ -168,4 +168,5 @@ nav li {
 
 .resume-container {
     display: flex;
+    gap: 24px;
 }
