@@ -160,3 +160,12 @@ nav li {
 .skills-description {
     color: #757575;
 }
+
+.resume {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.resume-container {
+    display: flex;
+}
