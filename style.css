@@ -169,4 +169,45 @@ nav li {
 .resume-container {
     display: flex;
     gap: 24px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+
+.resume-header {
+    text-align: center;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.sub-heading {
+    font-weight: 350;
+    font-size: 20px;
+
+}
+
+.ex-title {
+    font-weight: 550;
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #757575;
+    margin-top: 30px;
+}
+
+.ex-subtitle {
+    font-weight: 200;
+    font-size: 19px;
+    margin-bottom: 15px;
+    color: #757575;
+}
+
+.ex-p {
+    font-size: 18px;
+    padding-bottom: 30px;
+    color: #757575;
+    font-weight: 150;
+}
+
+.resume-button {
+    text-align: center;
+    margin-bottom: 130px;
 }
